@@ -1,0 +1,6 @@
+{
+  "name": "星购",
+  "description": "星购（XingGou）新一代企业级智能电商平台，提供智能搜索、秒杀限时购、会员体系、一键下单与物流追踪，并包含完整的商家管理后台和技术架构文档。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
